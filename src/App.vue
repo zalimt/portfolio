@@ -4,7 +4,7 @@
       <router-view />
       <h1>
         <div class="poop">
-          Poop is here!!! Changes applied!
+          Poop is here!!! Changes applied! New commit test
         </div>
       </h1>
     </div>
