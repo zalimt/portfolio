@@ -4,7 +4,7 @@
       <router-view />
       <h1>
         <div class="poop">
-          Final POOP
+          Final POOP 2
         </div>
       </h1>
     </div>
